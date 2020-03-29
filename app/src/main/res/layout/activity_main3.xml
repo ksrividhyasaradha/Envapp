@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context="com.example.amma.envapp3states.Main3Activity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Suggestions :)"/>
+
+    <Button
+        android:layout_width="120dp"
+        android:id="@+id/buttonOne"
+        android:layout_height="80dip"
+        android:background="@drawable/kanha"
+        android:layout_marginLeft="10dip"
+        android:layout_marginBottom="10dp"
+        android:textColor="@android:color/white"
+        android:layout_marginTop="10dp"
+        android:text="Kanha National Park"
+
+        />
+    <Button
+        android:layout_width="120dip"
+        android:layout_height="80dip"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/buttonTwo"
+        android:background="@drawable/pench"
+        android:textColor="@android:color/white"
+        android:layout_marginLeft="10dip"
+        android:text="Pench National Park"
+
+        />
+
+    <Button
+        android:layout_width="120dip"
+        android:layout_height="80dip"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:id="@+id/buttonThree"
+        android:textColor="@android:color/white"
+        android:background="@drawable/sat"
+        android:layout_marginLeft="10dip"
+        android:text="Satpura National Park"
+        />
+
+
+
+</LinearLayout>
+
+
+

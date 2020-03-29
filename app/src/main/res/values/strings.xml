@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Envapp3states</string>
+
+    <string name="mudhumalai">The Mudumalai National Park and Wildlife Sanctuary also a declared tiger reserve, lies on the northwestern side of the Nilgiri Hills (Blue Mountains), in Nilgiri District, about 150 kilometres (93 mi) north-west of Coimbatore city in Tamil Nadu.
+        \nIt shares its boundaries with the states of Karnataka and Kerala.
+        \nThe sanctuary is divided into five ranges – Masinagudi, Thepakadu, Mudumalai, Kargudi and Nellakota.
+        \nThe protected area is home to several endangered and vulnerable species including Indian elephant, Bengal tiger, gaur and Indian leopard. There are at least 266 species of birds in the sanctuary, including critically endangered Indian white-rumped vulture and long-billed vulture
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>
